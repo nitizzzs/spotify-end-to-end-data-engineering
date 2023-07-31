@@ -32,7 +32,7 @@ We will utilize Amazon Athena, an interactive query service, to build analytics 
 ### Brief Architecture
 ![Architecture_Spotify](https://github.com/nitizzzs/spotify-end-to-end-data-engineering/assets/18091614/929793cf-2cc1-4cb1-81b8-ceac2d188893)
 
-#### Architecture:
+### Architecture:
 The architecture of this project can be outlined as follows:
 
 #### Spotify API: The starting point of the pipeline is the Spotify API, which contains information about music, artists, albums, and songs.
